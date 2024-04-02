@@ -36,7 +36,7 @@ Você também pode acessar o Swagger UI que utilizei para documentar a API pelo 
 
 ### Formato dos dados
 
-As requisições e respostas são no formato JSON. Exemplo de uma como deve passar o JSON no POST:
+As requisições e respostas são no formato JSON. Exemplo de como se deve passar o JSON no POST:
 
 ```json
 {
