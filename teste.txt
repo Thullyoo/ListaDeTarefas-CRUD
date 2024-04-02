@@ -1,0 +1,21 @@
+{
+    "nome": "tarefa 1",
+    "descricao": "desc tarefa 1",
+    "pendencia": true,
+    "prioridade": 1
+}
+{
+    "nome": "tarefa 2",
+    "descricao": "desc tarefa 2",
+    "pendencia": false,
+    "prioridade": 4
+}
+{
+    "nome": "tarefa 3",
+    "descricao": "desc tarefa 3",
+    "pendencia": true,
+    "prioridade": 2
+}
+{
+
+}
