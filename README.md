@@ -7,7 +7,7 @@ Este é um projeto Java que implementa uma API CRUD para gerenciar uma lista de 
 1. Clone o repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/Thullyoo/ListaDeTarefas-CRUD
     ```
 
 2. Navegue até o diretório do projeto:
